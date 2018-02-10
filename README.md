@@ -1,3 +1,3 @@
-# SlaveFreeTrade_Submission
+# ProjectFree
+Verifies humanitarian working conditions in third world countries
 
-https://blackrockdigital.github.io/startbootstrap-grayscale/
